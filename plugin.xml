@@ -11,7 +11,7 @@
   <author>Daniel C. Wilson</author>
   <license>MIT License</license>
   <js-module src="www/analytics.js" name="UniversalAnalytics">
-    <clobbers target="analytics" />
+    <clobbers target="ga" />
   </js-module>
 
   <platform name="ios">
